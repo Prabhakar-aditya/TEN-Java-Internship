@@ -15,11 +15,14 @@ This repository contains Java programs, assignments, and backend development pro
 - REST APIs
 
 ## Folder Structure
+
+```text
 SE_java/
  └── week1/
       ├── HelloWorld.java
       ├── OperatorsDemo.java
       └── StudentInfo.java
+```
       ## Author
 Prabhakar Panchal
 B.Tech Cyber Security
